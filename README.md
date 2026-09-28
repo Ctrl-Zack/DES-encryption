@@ -79,7 +79,7 @@ make clean
 ├── include/
 │   ├── constant.hpp    # DES bit tables, permutation boxes, and constants
 │   ├── des.hpp         # DES encryption/decryption algorithm logic
-│   └── secure_io.hpp     # Socket communication helper utilities
+│   └── secure_io.hpp   # Socket communication helper utilities
 ├── bin/                # Compiled binaries directory (auto-generated)
 ├── server.cpp          # Application server entry point
 ├── client.cpp          # Application client entry point
